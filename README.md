@@ -13,6 +13,7 @@ Data Size: 500 Orders
 
 Purpose: Business performance monitoring and insights generation
 
+
 ## 📈 Key Metrics Visualized
 Total Revenue: ₹260.29K
 
@@ -21,6 +22,7 @@ Average Order Value: ₹520.59
 Total Orders: 500
 
 Return/Cancelled Orders: 93
+
 
 ## 📌 Dashboards & Visuals
 🎯 Total Customers (Repeat vs New)
@@ -56,6 +58,7 @@ A small number of customers contribute a large share of revenue (Pareto principl
 
 Credit Card and PayPal are dominant payment methods.
 
+
 ## 📁 Data Structure
 Customers.csv: Customer details
 
@@ -63,8 +66,10 @@ Orders.csv: Order transactions with status
 
 Products.csv: Product details and categories
 
+
 ## 📌 Conclusion
 This dashboard provides a complete overview of sales performance in an e-commerce setting. It can help business owners, analysts, and marketing teams quickly spot trends, inefficiencies, and opportunities for growth.
+
 
 ## 📂 Download Files
 
