@@ -1,7 +1,11 @@
 # 📊 E-Commerce-Sales-Analysis-Dashboard
 This Power BI project visualizes and analyzes key metrics of an e-commerce business using mock sales data. It is designed to help stakeholders make informed decisions by providing a clear view of performance across various dimensions like customers, products, revenue, and order behaviour.
 
+🔗 **Live Dashboard**: [View Interactive Dashboard](https://app.powerbi.com/links/nZqD5wZjmr?ctid=75e19a76-5eb5-44f4-bb32-66ecc7827e1e&pbi_source=linkShare&bookmarkGuid=86fd980a-8d18-4f45-a877-6b664c628560)
+
+
 <img width="1202" alt="Screenshot 2025-06-19 at 8 50 09 PM" src="https://github.com/user-attachments/assets/cc2c8014-6361-4f89-b3d8-6edaee971108" />
+
 
 
 ## 🔍 Project Overview
